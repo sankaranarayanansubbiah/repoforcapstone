@@ -2,7 +2,7 @@
 
 #Docker build
 
-docker build -t guvitask .
+docker build -t guvi .
 
 #Docker container creation
 
